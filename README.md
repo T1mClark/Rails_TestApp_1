@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# UDEMY - Ruby on Rails Course 1
 
-Things you may want to cover:
+APP:  Test_App1
 
-* Ruby version
+* Ruby version: 2.6.6p146
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the first app built during the course.
